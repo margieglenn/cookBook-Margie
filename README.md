@@ -9,4 +9,5 @@ Here is a list of recipes you'll find in this cookbook.
 
 * banana pancakes
 * carrot cake
+* greek salad
 
